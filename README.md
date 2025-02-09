@@ -16,11 +16,11 @@ The development process of **Persian ExChanger** was divided into different phas
 
 ## 🔹 Team Members
 - **Owner & Lead Developer:** Arad Ashkan
-- **Co-Developer & Project Manager:** Dariush Roshan
-- **Manager:** Mohammad Kordi
+- **Co-Developer & Project Manager:** [Dariush Roshan](https://github.com/dariushrsh)
+- **Executive Manager:** [Mohammad Kordi](https://github.com/MamadPg)
 - **Project Moderators:**
-  - **Level 1 Moderator:** Mehdi Soltani
-  - **Level 2 Moderator:** Erfan Shafiee
+  - **Level 1 Moderator:** [Mehdi Soltani](https://github.com/MettiVleden)
+  - **Level 2 Moderator:** [Erfan Shafiee](https://github.com/erfnshafiee)
 - **Admin:** Farid
 
 ## 🌐 Supported Languages
@@ -60,11 +60,11 @@ Although the bot has been discontinued, you can find more information on our pre
 
 ## 🔹 اعضای تیم
 - **مالک و توسعه‌دهنده اصلی:** آراد اشکان
-- **توسعه‌دهنده و مدیر پروژه:** داریوش روشن
-- **مدیر:** محمد کردی
+- **توسعه‌دهنده و مدیر پروژه:** [داریوش روشن](https://github.com/dariushrsh)
+- **مدیر اجرایی:** [محمد کردی](https://github.com/MamadPg)
 - **مدیران پروژه:**
-  - **مدیر سطح ۱:** مهدی سلطانی
-  - **مدیر سطح ۲:** اروین شفیعی
+  - **مدیر سطح ۱:** [مهدی سلطانی](https://github.com/MettiVleden)
+  - **مدیر سطح ۲:** [اروین شفیعی](https://github.com/erfnshafiee)
 - **ادمین:** فرید
 
 
