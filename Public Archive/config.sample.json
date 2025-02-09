@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "clientId": "YOUR_CLIENT_ID",
+    "guildId": "YOUR_GUILD_ID",
+    "LogChannel": "YOUR_LOG_CHANNEL_ID",
+    "modrole": "YOUR_MOD_ROLE_ID",
+    "devrole": "YOUR_DEV_ROLE_ID",
+    "randomRange": { "min": 10, "max": 20 }
+}
